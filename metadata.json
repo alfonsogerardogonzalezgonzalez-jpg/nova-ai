@@ -1,0 +1,8 @@
+{
+  "name": "NOVA AI",
+  "description": "Inteligencia artificial moderna, educativa y confiable para niños y adultos con investigación real en Wikipedia y verificación de información.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
